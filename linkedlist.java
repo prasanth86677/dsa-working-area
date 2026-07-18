@@ -163,3 +163,4 @@ public class linkedlist{
 //sponsorship
 //buttler welcome to the world
 //water packetgit 
+//spot on
